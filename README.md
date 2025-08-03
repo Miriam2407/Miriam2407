@@ -5,8 +5,13 @@
 Me chamo Miriam Viegas de Jesus, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Meu principal foco é a análise de dados e desenvolvimento com tecnologias Python e C#.
 
 <div> 
-  <a href = "mailto:miriamviegasdejesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miriam-viegas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:miriamviegasdejesus@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/miriam-viegas/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"alt="Linkedin">
+  </a> 
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -80,5 +85,4 @@ Me chamo Miriam Viegas de Jesus, tenho 21 anos e sou de São Paulo. Atualmente, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 
